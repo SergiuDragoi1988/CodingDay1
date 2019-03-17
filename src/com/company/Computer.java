@@ -1,7 +1,7 @@
 package com.company;
 
-import javafx.util.converter.PercentageStringConverter;
 import model.*;
+import model.peripheral.Peripheral;
 
 public class Computer {
 
